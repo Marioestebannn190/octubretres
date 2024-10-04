@@ -1,0 +1,21 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#fe8502;
+}
+.bg-custom-navbar {
+    background-color: #fe8502; 
+}
+
+.nav-link {
+    color: rgb(12, 11, 11) !important; 
+}
+
+.navbar-brand {
+    color: rgb(21, 20, 20) !important; 
+}
+
+.navbar-toggler-icon {
+    background-color: rgb(23, 22, 22); 
+}
